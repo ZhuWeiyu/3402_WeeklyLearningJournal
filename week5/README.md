@@ -1,7 +1,7 @@
 # Content Explaining and Week5 Learning Journal of CMS
 
-**Student name:** Yingying Zhang  
-**Student ID:** 14205477
+**Student name:** Weiyu Zhu  
+**Student ID:** 14187098
 
 This week learning process included aesthetic design, UX research, and web design trends, taking a time commitment. Through this process, I improved my design and UX skills and gained valuable insights about career development and learning.
 
