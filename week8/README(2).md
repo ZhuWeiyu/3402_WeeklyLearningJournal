@@ -27,3 +27,4 @@ Condensing active recall and teaching into a single day intensified the learning
 ### Career/Employability/Learning Insights
 This intensive approach to learning CMS highlighted the importance of active engagement and the value of immediate application in mastering technical skills. The ability to quickly learn and then communicate complex ideas is essential in fast-paced tech environments. This method not only solidified my CMS understanding but also developed my skills in rapid learning and effective communication, both of which are highly valued in a professional setting.
 
+
